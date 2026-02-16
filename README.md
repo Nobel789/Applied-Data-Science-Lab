@@ -29,3 +29,6 @@ Text Processing: Advanced Regex patterns for extracting email addresses and stru
 
 🔐 ML Security & Fraud Detection
 Encrypted Training Pipeline: Built a secure XGBoost pipeline for Fraud Detection where model artifacts and datasets are programmatically encrypted/decrypted during the training lifecycle to prevent data leakage.
+
+🏭 Industrial IoT
+Predictive Maintenance: Implemented Deep Learning models (LSTM/CNN) to estimate the Remaining Useful Life (RUL) of industrial machinery using sensor time-series data.
