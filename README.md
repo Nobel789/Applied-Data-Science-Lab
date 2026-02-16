@@ -26,3 +26,6 @@ Feature Selection: Implemented Backward Elimination to statistically select mode
 Memory Optimization: Demonstrated Python Generators for lazy evaluation, enabling processing of large datasets without memory overflows.
 
 Text Processing: Advanced Regex patterns for extracting email addresses and structured data from unstructured text.
+
+🔐 ML Security & Fraud Detection
+Encrypted Training Pipeline: Built a secure XGBoost pipeline for Fraud Detection where model artifacts and datasets are programmatically encrypted/decrypted during the training lifecycle to prevent data leakage.
